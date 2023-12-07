@@ -1,5 +1,3 @@
 # adventOfCode2023
 
-Goal, to do is many of these in c as time allows.
-
-Will probably switch to java,kotlin, or javascript when it gets too hairy.
+first time doing advent of code, going to use javascript cuz it's great at this type of fake programming.
